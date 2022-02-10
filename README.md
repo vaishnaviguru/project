@@ -1,3 +1,3 @@
 # project
 test project
-https://github.com/vaishnaviguru/project click here
+ https://vaishnaviguru.github.io/project/ click here
